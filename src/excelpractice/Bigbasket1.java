@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 public class Bigbasket1 {
 	String grand_parent_text = "Baby Care";
 	String parent_text = "Baby Accessories";
-	String child_text = "Baby Toys Rakhi";
+	String child_text = "Baby Toys";
 	String grand_chil_text = "Baby Comb";
 
 	WebDriver drv;

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-java-3.14.0.zip">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/libs/byte-buddy-1.8.15.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/libs/commons-codec-1.10.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/libs/commons-exec-1.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/libs/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/libs/guava-25.0-jre.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/libs/httpclient-4.5.5.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/libs/httpcore-4.4.9.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/libs/okhttp-3.10.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/libs/okio-1.14.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/client-combined-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/libs/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/New folder/libs/okio-1.14.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/POI/poi-4.0.1/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/POI/poi-4.0.1/poi-examples-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/POI/poi-4.0.1/poi-excelant-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/POI/poi-4.0.1/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/POI/poi-4.0.1/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/POI/poi-4.0.1/poi-scratchpad-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/POI/poi-4.0.1/ooxml-lib/curvesapi-1.05.jar"/>
+	<classpathentry kind="lib" path="D:/POI/poi-4.0.1/ooxml-lib/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/exceljar/commons-compress-1.18/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="D:/exceljar/commons-compress-1.18/commons-compress-1.18-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/exceljar/commons-compress-1.18/commons-compress-1.18-sources.jar"/>
+	<classpathentry kind="lib" path="D:/exceljar/commons-compress-1.18/commons-compress-1.18-tests.jar"/>
+	<classpathentry kind="lib" path="D:/exceljar/commons-compress-1.18/commons-compress-1.18-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Manager/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Manager/commons-compress-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/Manager/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Manager/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="D:/Manager/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Manager/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="D:/Manager/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/Manager/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="D:/Manager/jarchivelib-0.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Manager/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="D:/Manager/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Manager/webdrivermanager-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/tessract/javacpp-1.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/tessract/leptonica-1.77.0-1.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/tessract/tesseract-4.0.0-1.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/fontbox-2.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/ghost4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/jbig2-imageio-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/jboss-logging-3.1.4.GA.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/jboss-vfs-3.2.14.Final.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/jna-5.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/lept4j-1.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/log4j-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/pdfbox-2.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/pdfbox-debugger-2.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/pdfbox-tools-2.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/tess4j-4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/tess4j/xmlgraphics-commons-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
